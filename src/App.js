@@ -5,7 +5,7 @@ const App = () => {
   return (
     <StrictMode>
       <div>
-        <h1>React is working.</h1>
+        <h1 className="text-3xl font-bold">React is working.</h1>
       </div>
     </StrictMode>
   );
